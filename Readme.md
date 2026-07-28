@@ -106,14 +106,6 @@ DELETE /mangas/<id>
 - Os dados são armazenados em memória (uma lista Python), ou seja, **são perdidos a cada reinicialização** do servidor. Para persistência, o próximo passo seria integrar um banco de dados como SQLite via SQLAlchemy.
 - Projeto criado para fins de estudo/portfólio.
 
-## Melhorias futuras
-
-- [ ] Persistência com banco de dados
-- [ ] Validação de schema mais robusta (ex: com Marshmallow ou Pydantic)
-- [ ] Paginação na listagem
-- [ ] Testes automatizados
-- [ ] Documentação interativa (Swagger/OpenAPI)
-
-## Licença
-
-Este projeto está sob a licença MIT.
+👨‍💻 Autor
+Gabriel Gonçalves de Oliveira
+📧 ggoncalvesy03@gmail.com
