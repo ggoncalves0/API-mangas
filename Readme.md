@@ -106,6 +106,6 @@ DELETE /mangas/<id>
 - Os dados são armazenados em memória (uma lista Python), ou seja, **são perdidos a cada reinicialização** do servidor. Para persistência, o próximo passo seria integrar um banco de dados como SQLite via SQLAlchemy.
 - Projeto criado para fins de estudo/portfólio.
 
-👨‍💻 Autor
-Gabriel Gonçalves de Oliveira
+## 👨‍💻 Autor
+Gabriel Gonçalves de Oliveira  
 📧 ggoncalvesy03@gmail.com
